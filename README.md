@@ -3,8 +3,10 @@
 Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel and i luv to make it open sorces cuz why not :3 11!
 
 <p align="center">
-  <img alt="gif" src="https://i.pinimg.com/originals/2e/1a/43/2e1a43aa4b2d35c660200ea998643413.gif" width="500px">
+  <img alt="gif" src="https://i.pinimg.com/originals/2e/1a/43/2e1a43aa4b2d35c660200ea998643413.gif" width="600px">
 </p>
+
+<br>
 
 ##  What It Does 🌟
 
@@ -14,8 +16,10 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
 - **Save State**: Persists data in a JSON file. I triple-tested the save/load logic to ensure nothing gets lost.  
 
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.pinimg.com/originals/86/a4/b5/86a4b5321cc13077301d80809256870a.gif" width="500px">
+  <img alt="discord_bot.py" src="https://i.pinimg.com/originals/86/a4/b5/86a4b5321cc13077301d80809256870a.gif" width="600px">
 </p>
+
+<br>
 
 ## What You Need ❓
 
@@ -31,8 +35,10 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
    pip install discord.py google-api-python-client
 
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.pinimg.com/736x/15/69/4b/15694b89f58ba4afbd1c5cc272b72260.jpg" width="500px">
+  <img alt="discord_bot.py" src="https://i.pinimg.com/736x/15/69/4b/15694b89f58ba4afbd1c5cc272b72260.jpg" width="600px">
 </p>
+
+<br>
 
 ##  Customization 🎨
 
@@ -43,11 +49,13 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
 - **Interval**: Adjust CHECK_INTERVAL in your .env (1–60 minutes) to control polling frequency.
 
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.pinimg.com/originals/5a/76/40/5a7640d54e08ce9db3cff4e7ae427931.gif" width="500px">
+  <img alt="discord_bot.py" src="https://i.pinimg.com/originals/5a/76/40/5a7640d54e08ce9db3cff4e7ae427931.gif" width="600px">
 </p>
+
+<br>
 
 ## License 📜
 MIT ©**ultimate sigma kitten (it's me :3)**
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.pinimg.com/736x/d9/37/5c/d9375c35584ecf63a049d9e04da773ff.jpg" width="500px">
+  <img alt="discord_bot.py" src="https://i.pinimg.com/736x/d9/37/5c/d9375c35584ecf63a049d9e04da773ff.jpg" width="600px">
 </p>
