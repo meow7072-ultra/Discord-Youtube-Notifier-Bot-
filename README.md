@@ -27,15 +27,18 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
 2. **Discord Bot Account**  
    - Create one in the [Discord Developer Portal](https://discord.com/developers/applications).  
    - Enable the "Send Messages" and "Embed Links" permissions—these are crucial.
-   - install a discord.py
+   - install a discord.py and google-api
     ```bash
    pip install git+https://github.com/Rapptz/discord.py
+   pip install google-api-python-client
+  
 3. **YouTube Data API Key** 🔑  
    - Get it from the [Google Cloud Console](https://console.cloud.google.com/apis/credentials).  
    - Make sure the **YouTube Data API v3** is enabled.  
-4. **Dependencies**  
+4. **change a values
    ```bash
-   pip install discord.py google-api-python-client
+   thing
+
 
 <p align="center">
   <img alt="discord_bot.py" src="https://i.pinimg.com/736x/15/69/4b/15694b89f58ba4afbd1c5cc272b72260.jpg" width="600px">
