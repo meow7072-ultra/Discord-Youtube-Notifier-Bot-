@@ -1,3 +1,7 @@
+```bash
+my discord: 0xequalshex
+```
+
 # Discord Notifier Bot  
 
 Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel and i luv to make it open sorces cuz why not :3 11!
