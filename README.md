@@ -37,7 +37,11 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
    - Make sure the **YouTube Data API v3** is enabled.  
 4. **change a values
    ```bash
-   thing
+   DISCORD_TOKEN = "DISCORD BOT TOKEN"
+   YOUTUBE_API_KEY = "YOUTUBE API KEY"
+   YOUTUBE_CHANNEL_ID = "YOUTUBE CHANNEL ID"
+   DISCORD_CHANNEL_ID = 123456 
+   CHECK_INTERVAL = 10 #wil check every 10 min (u can change it)
 
 
 <p align="center">
