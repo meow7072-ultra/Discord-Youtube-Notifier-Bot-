@@ -35,7 +35,7 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
 3. **YouTube Data API Key** 🔑  
    - Get it from the [Google Cloud Console](https://console.cloud.google.com/apis/credentials).  
    - Make sure the **YouTube Data API v3** is enabled.  
-4. **change a values
+4. **change a values** 
    ```bash
    DISCORD_TOKEN = "DISCORD BOT TOKEN"
    YOUTUBE_API_KEY = "YOUTUBE API KEY"
