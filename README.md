@@ -32,7 +32,7 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
    pip install git+https://github.com/Rapptz/discord.py
    pip install google-api-python-client
   
-3. **YouTube Data API Key** 🔑  
+3. **YouTube Data API Key**
    - Get it from the [Google Cloud Console](https://console.cloud.google.com/apis/credentials).  
    - Make sure the **YouTube Data API v3** is enabled.  
 4. **change a values** 
