@@ -43,7 +43,6 @@ Hi! okey i made this lil tinny bot dor notifier ppl for last vid in yt channel a
    DISCORD_CHANNEL_ID = 123456 
    CHECK_INTERVAL = 10 #wil check every 10 min (u can change it)
 
-
 <p align="center">
   <img alt="discord_bot.py" src="https://i.pinimg.com/736x/15/69/4b/15694b89f58ba4afbd1c5cc272b72260.jpg" width="600px">
 </p>
