@@ -10,8 +10,8 @@ from discord.ext import commands, tasks
 DISCORD_TOKEN = "DISCORD BOT TOKEN"
 YOUTUBE_API_KEY = "YOUTUBE API KEY"
 YOUTUBE_CHANNEL_ID = "YOUTUBE CHANNEL ID"
-DISCORD_CHANNEL_ID = 123456 # replace it with the channel id
-CHECK_INTERVAL = 10 # this make it check in your youtube channel if u have a new video (by minute)  
+DISCORD_CHANNEL_ID = 123456 
+CHECK_INTERVAL = 10 
 
 
 meow = commands.Bot(command_prefix = "not-matter", intents = discord.Intents.all())
